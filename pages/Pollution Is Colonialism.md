@@ -1,0 +1,27 @@
+public:: false
+
+- Pollution Is Colonialism #pollution #colonialism #power #capitalism #water #science
+- ![978-1-4780-1413-3.jpeg](../assets/978-1-4780-1413-3_1660766602254_0.jpeg){:height 445, :width 291}
+- Liboiron, M. (2021). *Pollution Is Colonialism*. Duke University Press Books.
+- Introduction
+	- "The structures that allow plastics' global distribution and full integration into ecosystems and everyday human lives are based on colonial land relations, the assumed access by settler and colonial projects to Indigenous lands for settler and colonial goals." (pp. 5) #colonialism #pollution
+	- "I find that many people understand colonialism as a monolithic structure with roots exclusively in historical bad action, rather than as a set of contemporary and evolving land relations that can be maintained by good intentions and even good deeds. " (pp. 6) #colonialism
+	- "Environmentalism often 'propagates and maintains the dispossession of Indigenous peoples for the common good of the world.'" (pp. 10)
+	- "Conflating colonialism with capitalism misses crucial relations, which Coulthard argues include white supremacy and patriarchy." (pp. 14) #colonialism #capitalism #whitesupremacy #patriarchy
+	- "Even though I'm sure you've heard that 'everything is related' in many Indigenous cosmologies, this doesn't mean there is a cosmic similitude of relations. You are not obliged to all things the same way." (pp. 24) #interrelations
+	- "Indigenous peoples, settlers, and others have different roles and responsibilities in the 'challenge to invent, revive, and sustain decolonizing possibilities and persistences'." (pp. 25) #decolonialism
+	- "I refuse to reproduce 'damage-centered research... that operates, even benevolently, from a theory of change that establishes harm or injury in order to achieve reparation' and instead work to put 'the context of racism and colonization' at the centre of pollution research. [...] looking upstream to see structures of violence rather than effects and harm." (pp. 34) #care #powerdynamics
+	- "Throughout this book, I redefine pollution as central to, rather than a by-product of, colonialism, and I think about the role of science in achieving both colonialism and anticolonialism." (pp. 36) #pollution #colonialism
+	- "It discusses Indigenous concepts of Land and how these ideas get flattened into Nature through colonial relations based in separation, universalism, and the scientifically proven resilience of the natural world." (pp. 36) #colonialism
+- Land, Nature, Resource, Property
+	- "The subjugation of land and nonhuman life to deathlike states in order to support 'human' life is a 'biopolitics' well beyond the Foucauldian conception of biopolitical as governmentality or the neoliberal disciplining of modern, bourgeois, 'human' subject." (pp. 43) #biopolitics
+	- "Like many others, I struggle with the designation of nonhuman to mean everyone who isn't human since the term recentres the human at the moment you're trying not to. [...] The alternative more-than-human also leaves humans in the middle, though I appreciate its commitments." (pp. 43) #anthropocentrism #more-than-human
+	- "The logical extension of quantifying the threshold of pollution was to parcel out the assimilative capacity - essentially, the ability to waste, even the right to waste - to polluters." (pp. 57) #pollution
+	- "this concept of natural assimilation is the conceptual premise of climate change denial." (pp. 60) #climatechange
+	- "I do this to argue against theories of change that rely on awareness as the crux of motivation for change. 'I only settlers and colonialists knew how their worldview centres themselves and their needs against others'!' [...] they understand." (pp. 63) #powerdynamics #socialchange
+	- "He [Heidegger] argues that modern technology's main task is to transform and stockpile Nature as a standing reserve via enframing." (pp. 64) #technology
+	- "The most important aim of recasting land as property is to make it ahistorical in order to hack away the narratives that invoke prior claims and thus reaffirm the myth of terra nullius." (pp. 68) #property #colonialism
+	- "This settler commissioner, along with many of his contemporaries, thought that until Europeans arrived, most of the land was waste, or, where native people were obviously using it, that their use were inadequate.'" (pp. 72) #capitalism #colonialism #extractivism #economicgrowth
+	- "I hope I've explained it so that when you're on a call with the federal government and someone says that we should set a quantifiable limit to plastics in an environment, you can know this is about enclosure, access, private property, and whiteness." (pp. 78) #whiteness #powerdynamics
+- Scale, Harm, Violence, Land
+	-

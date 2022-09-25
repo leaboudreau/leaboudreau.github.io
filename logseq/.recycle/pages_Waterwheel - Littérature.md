@@ -1,0 +1,11 @@
+- [[Sound Waterwheel]]
+- Thinking with Water #capitalism #water #memory
+	- MacLeod, J. (2013). __Water and the Material Imagination: Reading the Sea of Memory against the Flow of Capital.__ In Thinking with Water (1st ed., pp. 40–60). McGill-Queen’s University Press.
+		- "The 'flows of capital' metaphor contributes to the aura of naturalness surrounding such conditions" (pp. 41)
+		- "[...] technical control over the flow of large rivers has often coincided with intensified social domination; the construction of mega-dams and other large-scale waterworks has both required and facilitated more pronounced social hierarchy and a great concentration of power" (pp. 42) #powerdynamics #power #hierarchies
+		- "As such, modern modes of communication tend to disconnect individual events from one another and allow the links between generations to atrophy. In fragmenting and decontextualizing events, this mode of temporal experience also hinders our ability to perceive and understand environmental threats" (pp. 44) #climatechange #fragmentation
+		- "Water quite literally binds together the 'little separate incidents' of life" (pp. 47) #water
+		- "[...] the commodity form reduces all objects to a single quantified abstraction. In this process of simplification, the commodity form diminishes the complexity of every ecosystem it touches." (pp. 49) #commodity #ecosystem #capitalism
+		- "As they are exploited, for instance, to sell bottled water, real estate, and package tours, water's symbolic resonances of well-being, prosperity, serenity, or power may be associatively linked to the markets in which they circulates." (pp. 54) #capitalism #water
+		- "The vitality of multi-generational memory and the well-being of the water commons are threatened by the same operations of capital." (pp. 57) #capital #water #memory
+-

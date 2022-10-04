@@ -12,7 +12,7 @@ public:: false
 - [[DM1L]]
   background-color:: #533e7d
 	- [[DM1L to-to-list]]
-	- [[DM1L - Idées + inspirations]]
+	- [[DM1L - R&D]]
 	- [[DM1L - Littérature]]
 - [[LITTÉRATURE]]
   background-color:: #793e3e

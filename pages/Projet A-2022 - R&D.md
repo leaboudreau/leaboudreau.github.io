@@ -3,12 +3,22 @@ public:: true
 - [[Projet A-2022]]
 -
 - __MENU__
+	- ((633c950d-522a-4489-818a-f3882e238954))
 	- ((6331b4d4-2e5d-41f7-8d6f-7fb99d8991d1))
 	- ((63279ac0-02db-4d56-a253-cd4163216a23))
+		- ((6331b512-4142-4f2c-bc79-64c722c4010e))
+		- ((6328f5bb-6848-4c88-928e-d8f6105cbbe3))
+		- ((63375819-7323-44ef-a2fe-899566643fd7))
 	- ((6328dde4-426a-47b1-bdfa-07225f4e1298))
 	- ((6328f60e-a2d7-47d6-96c1-da7ab963e387))
 -
 -
+- LITTERATURE + CONCEPTUAL APPROACH
+  background-color:: #533e7d
+  id:: 633c950d-522a-4489-818a-f3882e238954
+	- René Descartes -> concept of animal-machine
+		- https://aeon.co/essays/can-animals-be-usefully-described-as-clockwork-machines
+	-
 - GENERAL TECHNICAL INFOS
   background-color:: #793e3e
   id:: 6331b4d4-2e5d-41f7-8d6f-7fb99d8991d1
@@ -23,45 +33,75 @@ public:: true
 	  background-color:: #533e7d
 		- (en parallèle pour doubler l'ampérage)
 		- ![Capture d’écran, le 2022-09-19 à 19.00.20.png](../assets/Capture_d’écran,_le_2022-09-19_à_19.00.20_1663628438385_0.png)
--
--
--
+		-
+		- Motors in serie/parallel
+		- ![Capture d’écran, le 2022-09-30 à 18.10.14.png](../assets/Capture_d’écran,_le_2022-09-30_à_18.10.14_1664656938748_0.png)
+		-
 - TESTED AND WORKING CIRCUITS
   background-color:: #497d46
   id:: 63279ac0-02db-4d56-a253-cd4163216a23
-	- 2022/08/28
-	- Hysteretic oscillator + fade (555)
-	- ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
-	- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
-	- ![DarkDetector-2N3904.jpg](../assets/DarkDetector-2N3904_1661704721842_0.jpg)
-	- Try a mix of those 2 circuits (do not forget to unplug when making changes in the circuit)
-	-
-	- TO DO
-		- Control blink speed (potentiometer) automatically and random
+	- __2022/08/28__
+	  id:: 6331b512-4142-4f2c-bc79-64c722c4010e
+		- Hysteretic oscillator + fade (555)
+		  
+		  _ Alternating flashing lights (fade)
+		  
+		  ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
 		-
-	- Simple blinking LED circuit https://www.instructables.com/Simple-Blinking-LED-Circuit/
-		- ![Capture d’écran, le 2022-08-28 à 13.04.30.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.04.30_1661706615467_0.png)
-		- ![BlinkingLED_WithLDR.jpg](../assets/BlinkingLED_WithLDR_1663622597230_0.jpg)
+		- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
+		  
+		  _ Light turns on when it's dark
+		  
+		  ![DarkDetector-2N3904.jpg](../assets/DarkDetector-2N3904_1661704721842_0.jpg)
 		-
-	- ![Capture d’écran, le 2022-08-30 à 17.15.36.png](../assets/Capture_d’écran,_le_2022-08-30_à_17.15.36_1661894147266_0.png){:height 406, :width 746}
-	- Pour modifier la vitesse = changer R1 et/ou C2
-	- Pour baisser le volume = changer C4 (1uF ou 0.1uF)
-	- Pour modifier le durée de chaque impulsion = changer R2
-	- Bon mix de LDR = 8-16kohm + 10-50kohm
-	- ![BirdSoundGenerator01.jpg](../assets/BirdSoundGenerator01_1663622562740_0.jpg)
-	-
-	- 2022/09/19
-	- ![Capture d’écran, le 2022-09-19 à 18.22.30.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.22.30_1663626163963_0.png)
-	- Resistor and/or diode can be replaced by LDR
-	-
-	- Clap switch with microphone
-	- ![Capture d’écran, le 2022-09-19 à 18.48.49.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.48.49_1663627760729_0.png)
-	- *More sensitive mic + more bright light
-	- -> Pour que la LED soit plus bright, choisir un resistor plus petit à mettre juste avant la LED
-	  background-color:: #978626
-	- ![ClapSwitcch_Mic.jpg](../assets/ClapSwitcch_Mic_1663969559342_0.jpg)
--
--
+		- Simple blinking LED circuit https://www.instructables.com/Simple-Blinking-LED-Circuit/
+		  
+		  _ Alternating flashing lights
+		  _ Some resistors can be replace by LDR to have variations
+		  _ 
+		  
+		  ![Capture d’écran, le 2022-08-28 à 13.04.30.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.04.30_1661706615467_0.png)
+		  ![BlinkingLED_WithLDR.jpg](../assets/BlinkingLED_WithLDR_1663622597230_0.jpg)
+		-
+		- "Bird sound" Generator
+		  
+		  _ High pitched repetitive "bird-like" sounds
+		  _ Pour modifier la vitesse = changer R1 et/ou C2
+		  _ Pour baisser le volume = changer C4 (1uF ou 0.1uF)
+		  _ Pour modifier le durée de chaque impulsion = changer R2
+		  _ Bon mix de LDR = 8-16kohm + 10-50kohm
+		  
+		  ![Capture d’écran, le 2022-08-30 à 17.15.36.png](../assets/Capture_d’écran,_le_2022-08-30_à_17.15.36_1661894147266_0.png){:height 406, :width 746}
+		  ![BirdSoundGenerator01.jpg](../assets/BirdSoundGenerator01_1663622562740_0.jpg)
+	- __2022/09/19__
+	  id:: 6328f5bb-6848-4c88-928e-d8f6105cbbe3
+		- Uneven clicks - 555
+		  
+		  _ Tictic-tic
+		  _ Resistor and/or diode can be replaced by LDR
+		  
+		  ![Capture d’écran, le 2022-09-19 à 18.22.30.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.22.30_1663626163963_0.png)
+		-
+		- Clap switch with microphone
+		  
+		  -> LED turns on when sound is detected
+		  -> Sound needs to be pretty loud to trigger the LED
+		  -> Pour que la LED soit plus bright, choisir un resistor plus petit à mettre juste avant la LED
+		  
+		  ![Capture d’écran, le 2022-09-19 à 18.48.49.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.48.49_1663627760729_0.png)
+		  ![ClapSwitcch_Mic.jpg](../assets/ClapSwitcch_Mic_1663969559342_0.jpg)
+		-
+	- __2022/09/30__
+	  id:: 63375819-7323-44ef-a2fe-899566643fd7
+		- Sound sensing circuit (sent by Koby Ratliff)
+		  
+		  -> Motor is triggered when sound is detected
+		  -> Really more sensitive than the previous circuit (works very well)
+		  -> with 3.7V cell batterie or power supply
+		  
+		  ![MovDetectCircuit.png](../assets/MovDetectCircuit_1664571331786_0.png)
+		  ![SoundDetectCircuit_DONE.jpg](../assets/SoundDetectCircuit_DONE_1664574804746_0.jpg)
+		-
 - TO TRY LATER
   background-color:: #978626
   id:: 6328dde4-426a-47b1-bdfa-07225f4e1298
@@ -79,15 +119,14 @@ public:: true
 	-
 	- Adjustable auto on/off delay time circuit (555) https://elonics.org/adjustable-auto-on-off-delay-timer-circuit-using-555/
 	- ![Capture d’écran, le 2022-08-28 à 13.03.44.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.03.44_1661706247273_0.png)
--
--
+	-
 - CIRCUITS THAT DIDN'T WORK
   background-color:: #264c9b
   id:: 6328f60e-a2d7-47d6-96c1-da7ab963e387
-	- N'a pas fonctionné (2022/09/16)
+	- Didn't work/unsatifying (2022/09/16)
 	- ![Capture d’écran, le 2022-09-16 à 17.22.17.png](../assets/Capture_d’écran,_le_2022-09-16_à_17.22.17_1663363349998_0.png)
-	- 2022/09/19
-	- N'a pas fonctionné
+	- Didn't work/unsatifying (2022/09/19)
+	  id:: 6328cb1b-d5fb-4ee3-b101-a9685c8be68d
 	- ![Capture d’écran, le 2022-09-19 à 16.03.49.png](../assets/Capture_d’écran,_le_2022-09-19_à_16.03.49_1663617840017_0.png)
-	- Scuff Circuit (pas sûre que je peux le faire)
+	- Scuff Circuit - Didn't work/unsatifying
 	- ![Capture d’écran, le 2022-09-19 à 17.28.25.png](../assets/Capture_d’écran,_le_2022-09-19_à_17.28.25_1663622915585_0.png)

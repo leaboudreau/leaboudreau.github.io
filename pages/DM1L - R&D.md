@@ -83,3 +83,6 @@ public:: false
 			- La cause économie fait avancer la cause environnementale...
 			- Rive = provinciale, eau = fédéral
 -
+- 2022/09/26
+	- Le BEAMbot dans l'eau distillée et couvert de vernis transparent fonctionne encore après deux jours dans l'eau
+	-

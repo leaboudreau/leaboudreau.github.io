@@ -6,3 +6,5 @@ public:: false
   background-color:: #793e3e
 - [[Pollution Is Colonialism]]
   background-color:: #978626
+- [[Underbug]]
+  background-color:: #533e7d

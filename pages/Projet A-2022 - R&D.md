@@ -31,7 +31,7 @@ public:: true
 	-
 	- Connecter batteries en séries pour __doubler le voltage!__
 	  background-color:: #533e7d
-		- (en parallèle pour doubler l'ampérage)
+		- (en parallèle pour doubler l'ampérage) ~~
 		- ![Capture d’écran, le 2022-09-19 à 19.00.20.png](../assets/Capture_d’écran,_le_2022-09-19_à_19.00.20_1663628438385_0.png)
 		-
 		- Motors in serie/parallel

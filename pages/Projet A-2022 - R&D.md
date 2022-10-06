@@ -18,6 +18,7 @@ public:: true
   id:: 633c950d-522a-4489-818a-f3882e238954
 	- René Descartes -> concept of animal-machine
 		- https://aeon.co/essays/can-animals-be-usefully-described-as-clockwork-machines
+	- Underbug: An Obsessive Tale of Termites and Technology
 	-
 - GENERAL TECHNICAL INFOS
   background-color:: #793e3e

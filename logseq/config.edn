@@ -200,7 +200,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["GOOD TO KNOW" "Projet A-2022" "LITTÉRATURE" "Album empreintes DIGITALes 2022" "DM1L" "How to take dummy notes?"]
+ :favorites ["Collective knowledge" "GOOD TO KNOW" "Projet A-2022" "LITTÉRATURE" "Album empreintes DIGITALes 2022" "DM1L" "How to take dummy notes?"]
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:orphan-pages? true, :journal? false, :builtin-pages? false}
  :preferred-format :markdown

@@ -50,17 +50,14 @@ public:: true
 	- __2022/08/28__
 	  id:: 6331b512-4142-4f2c-bc79-64c722c4010e
 		- Hysteretic oscillator + fade (555)
-		  
 		  -> Alternating flashing lights (fade)
 		- ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
 		-
 		- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
-		  
 		  -> Light turns on when it's dark
 		  ![DarkDetector-2N3904.jpg](../assets/DarkDetector-2N3904_1661704721842_0.jpg)
 		-
 		- Simple blinking LED circuit https://www.instructables.com/Simple-Blinking-LED-Circuit/
-		  
 		  -> Alternating flashing lights
 		  -> Some resistors can be replace by LDR to have variations
 		  
@@ -69,7 +66,6 @@ public:: true
 		- {{video https://www.youtube.com/watch?v=tyP070O907o&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=5&ab_channel=L%C3%A9aBoudreau}}
 		-
 		- "Bird sound" Generator
-		  
 		  -> High pitched repetitive "bird-like" sounds
 		  -> Pour modifier la vitesse = changer R1 et/ou C2
 		  -> Pour baisser le volume = changer C4 (1uF ou 0.1uF)
@@ -83,14 +79,12 @@ public:: true
 	- __2022/09/19__
 	  id:: 6328f5bb-6848-4c88-928e-d8f6105cbbe3
 		- Uneven clicks - 555
-		  
 		  -> Tictic-tic
 		  -> Resistor and/or diode can be replaced by LDR
 		  
 		  ![uneven-clicks-circuit.jpg](../assets/uneven-clicks-circuit_1665943299705_0.jpg)
 		-
 		- Clap switch with microphone
-		  
 		  -> LED turns on when sound is detected
 		  -> Sound needs to be pretty loud to trigger the LED
 		  -> Pour que la LED soit plus bright, choisir un resistor plus petit à mettre juste avant la LED
@@ -101,7 +95,6 @@ public:: true
 	- __2022/09/30__
 	  id:: 63375819-7323-44ef-a2fe-899566643fd7
 		- Sound sensing circuit (sent by Koby Ratliff)
-		  
 		  -> Motor is triggered when sound is detected
 		  -> Really more sensitive than the previous circuit (works very well)
 		  -> with 3.7V cell batterie or power supply

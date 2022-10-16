@@ -1,4 +1,4 @@
-title:: Projet_A-2022_R+D
+title:: Projet_A-2022_ResearchDevelopment
 public:: true
 
 - [[Projet A-2022]]
@@ -39,7 +39,7 @@ public:: true
 		- ![Batteriesinserie.jpg](../assets/Batteriesinserie_1665935236596_0.jpg)
 		-
 		- Motors in serie/parallel
-		- ![Capture d’écran, le 2022-09-30 à 18.10.14.png](../assets/Capture_d’écran,_le_2022-09-30_à_18.10.14_1664656938748_0.png)
+		- ![Moteurs-serie-para.jpg](../assets/Moteurs-serie-para_1665943124271_0.jpg)
 		-
 - TESTED AND WORKING CIRCUITS
   background-color:: #497d46
@@ -49,13 +49,11 @@ public:: true
 		- Hysteretic oscillator + fade (555)
 		  
 		  _ Alternating flashing lights (fade)
-		  _
 		- ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
 		-
 		- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
 		  
 		  _ Light turns on when it's dark
-		  
 		  ![DarkDetector-2N3904.jpg](../assets/DarkDetector-2N3904_1661704721842_0.jpg)
 		-
 		- Simple blinking LED circuit https://www.instructables.com/Simple-Blinking-LED-Circuit/
@@ -63,7 +61,7 @@ public:: true
 		  _ Alternating flashing lights
 		  _ Some resistors can be replace by LDR to have variations
 		  
-		  ![Capture d’écran, le 2022-08-28 à 13.04.30.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.04.30_1661706615467_0.png)
+		  ![simpleblink-led-circuit.jpg](../assets/simpleblink-led-circuit_1665943204476_0.jpg) 
 		  ![BlinkingLED_WithLDR.jpg](../assets/BlinkingLED_WithLDR_1663622597230_0.jpg)
 		-
 		- "Bird sound" Generator
@@ -74,7 +72,7 @@ public:: true
 		  _ Pour modifier le durée de chaque impulsion = changer R2
 		  _ Bon mix de LDR = 8-16kohm + 10-50kohm
 		  
-		  ![Capture d’écran, le 2022-08-30 à 17.15.36.png](../assets/Capture_d’écran,_le_2022-08-30_à_17.15.36_1661894147266_0.png){:height 406, :width 746}
+		  ![bird-sound-gen.jpg](../assets/bird-sound-gen_1665943255875_0.jpg) 
 		  ![BirdSoundGenerator01.jpg](../assets/BirdSoundGenerator01_1663622562740_0.jpg)
 	- __2022/09/19__
 	  id:: 6328f5bb-6848-4c88-928e-d8f6105cbbe3
@@ -83,7 +81,7 @@ public:: true
 		  _ Tictic-tic
 		  _ Resistor and/or diode can be replaced by LDR
 		  
-		  ![Capture d’écran, le 2022-09-19 à 18.22.30.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.22.30_1663626163963_0.png)
+		  ![uneven-clicks-circuit.jpg](../assets/uneven-clicks-circuit_1665943299705_0.jpg)
 		-
 		- Clap switch with microphone
 		  
@@ -91,7 +89,7 @@ public:: true
 		  -> Sound needs to be pretty loud to trigger the LED
 		  -> Pour que la LED soit plus bright, choisir un resistor plus petit à mettre juste avant la LED
 		  
-		  ![Capture d’écran, le 2022-09-19 à 18.48.49.png](../assets/Capture_d’écran,_le_2022-09-19_à_18.48.49_1663627760729_0.png)
+		  ![clap-switch-mic-circuit01.jpg](../assets/clap-switch-mic-circuit01_1665943344490_0.jpg) 
 		  ![ClapSwitcch_Mic.jpg](../assets/ClapSwitcch_Mic_1663969559342_0.jpg)
 		-
 	- __2022/09/30__
@@ -119,7 +117,7 @@ public:: true
 	- 2022/09/21
 	- BC547 equivalent is 2n3904 - Q1
 	- BC557 equivalent is 2n3906 - Q2
-	- ![Capture d’écran, le 2022-09-20 à 15.51.26.png](../assets/Capture_d’écran,_le_2022-09-20_à_15.51.26_1663703504654_0.png)
+	- ![motion-detect-555.jpg](../assets/motion-detect-555_1665943402333_0.jpg)
 	- https://circuitdigest.com/electronic-circuits/simple-motion-detector-circuit-using-555-timer-and-relay-to-control-ac-loads
 	-
 	- Bird-like sound effect http://solarbotics.net/library/circuits/misc_sound_wilfbird.html
@@ -129,15 +127,15 @@ public:: true
 	- ![pummer.png](../assets/pummer_1661705413008_0.png)
 	-
 	- Adjustable auto on/off delay time circuit (555) https://elonics.org/adjustable-auto-on-off-delay-timer-circuit-using-555/
-	- ![Capture d’écran, le 2022-08-28 à 13.03.44.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.03.44_1661706247273_0.png)
+	- ![auto-on-off-delay-circuit.jpg](../assets/auto-on-off-delay-circuit_1665943450076_0.jpg)
 	-
 - CIRCUITS THAT DIDN'T WORK
   background-color:: #264c9b
   id:: 6328f60e-a2d7-47d6-96c1-da7ab963e387
 	- Didn't work/unsatifying (2022/09/16)
-	- ![Capture d’écran, le 2022-09-16 à 17.22.17.png](../assets/Capture_d’écran,_le_2022-09-16_à_17.22.17_1663363349998_0.png)
+	- ![cricket-sound-circuit.jpg](../assets/cricket-sound-circuit_1665943499597_0.jpg)
 	- Didn't work/unsatifying (2022/09/19)
 	  id:: 6328cb1b-d5fb-4ee3-b101-a9685c8be68d
-	- ![Capture d’écran, le 2022-09-19 à 16.03.49.png](../assets/Capture_d’écran,_le_2022-09-19_à_16.03.49_1663617840017_0.png)
+	- ![photopopper-circuit.jpg](../assets/photopopper-circuit_1665943530314_0.jpg)
 	- Scuff Circuit - Didn't work/unsatifying
-	- ![Capture d’écran, le 2022-09-19 à 17.28.25.png](../assets/Capture_d’écran,_le_2022-09-19_à_17.28.25_1663622915585_0.png)
+	- ![scuff-circuit.jpg](../assets/scuff-circuit_1665943562387_0.jpg)

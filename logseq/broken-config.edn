@@ -12,7 +12,7 @@
  :preferred-workflow :now
 
  ;; The app will ignore those directories or files.
- ;; E.g. :hidden ["/archived" "/test.md" "../assets/archived"]
+ ;; E.g. "/archived" "/test.md"
  :hidden []
 
  ;; When creating the new journal page, the app will use your template if there is one.
@@ -26,10 +26,6 @@
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
-
- ;; Enable remove accents when searching.
- ;; After toggle this option, please remember to rebuild your search index by press (cmd+c cmd+s).
- :feature/enable-search-remove-accents? true
 
  ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
@@ -74,7 +70,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
-
+:default-home {:page "Collective knowledge", :sidebar "Collective knowledge"}
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
  ;; :pages-directory "your-directory"
@@ -119,10 +115,6 @@
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
  :shortcut/doc-mode-enter-for-new-block? false
 
- ;; Block content larger than `block/content-max-length` will not be searchable
- ;; or editable for performance.
- :block/content-max-length 5000
-
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
 
@@ -166,7 +158,7 @@
             :where
             [?h :block/marker ?marker]
             [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
-            [?h :block/page ?p]
+            [?h :block/ref-pages ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [(> ?d ?start)]
@@ -174,13 +166,8 @@
     :inputs [:today :7d-after]
     :collapsed? false}]}
 
- ;; Add your own commands to slash menu to speedup.
- ;; E.g.
- ;; :commands
- ;; [
- ;; ["js" "Javascript"]
- ;; ["md" "Markdown"]
- ;; ]
+ ;; Add your own commands to speedup.
+ ;; E.g. [["js" "Javascript"]]
  :commands
  []
 
@@ -193,9 +180,9 @@
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
- ;; Change the :macros value below to:
+ ;; Add this to the macros below:
  ;; {"poem" "Rose is $1, violet's $2. Life's ordered: Org assists you."}
- ;; input "{{poem red,blue}}"
+ ;; input "{{{poem red,blue}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
@@ -213,7 +200,13 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["LITTÉRATURE" "Album empreintes DIGITALes 2022" "DM1L" "Projet A-2022 - R&D"]
+ :favorites ["Collective knowledge" "GOOD TO KNOW" "Projet A-2022" "LITTÉRATURE" "Album empreintes DIGITALes 2022" "DM1L" "How to take dummy notes?"]
+ :journal/page-title-format "yyyy-MM-dd"
+ :graph/settings {:orphan-pages? true, :journal? false, :builtin-pages? false}
+ :preferred-format :markdown
+ :feature/enable-journals? false
+ :default-home {:page "Projets en cours + à venir"}
+ :publishing/all-pages-public? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -222,20 +215,8 @@
  ;; :srs/initial-interval 4
 
  ;; hide specific properties for blocks
- ;; E.g. :block-hidden-properties #{:created-at :updated-at}
+ ;; E.g. #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
-
- ;; Enable all your properties to have corresponding pages
- :property-pages/enabled? true
-
- ;; Properties to exclude from having property pages
- ;; E.g.:property-pages/excludelist #{:duration :author}
- ;; :property-pages/excludelist
-
- ;; Enables property values to contain a mix of tags, page-refs, special
- ;; punctuation and free-form text.
- ;; Re-index current graph for config to take effect
- ;; :rich-property-values? true
 
  ;; logbook setup
  ;; :logbook/settings
@@ -247,11 +228,6 @@
  ;; Mobile photo uploading setup
  ;; :mobile/photo
  ;; {:allow-editing? true}
-
- ;; Mobile features options
- ;; Gestures
- ;; :mobile
- ;; {:gestures/disabled-in-block-with-tags ["kanban"]}
 
  ;; Extra CodeMirror options
  ;; :editor/extra-codemirror-options {:keyMap "emacs" :lineWrapping true}
@@ -268,22 +244,6 @@
  ;; You can also reorder them, or even only use one or two of them in the template.
  ;; You can also insert or format any text in the template as shown in the following examples.
  ;; :quick-capture-templates
- ;; {:text "[[quick capture]] **{time}**: {text} from {url}"
- ;;  :media "[[quick capture]] **{time}**: {url}"}
-
- ;; File sync options
- ;; Ignore these files when syncing, regexp is supported.
- ;; :file-sync/ignore-files []
-
- ;; dwim (do what I mean) for Enter key when editing.
- ;; Context-awareness of Enter key makes editing more easily
- ; :dwim/settings {
- ;   :admonition&src?  true
- ;   :markup?          false
- ;   :block-ref?       true
- ;   :page-ref?        true
- ;   :properties?      true
- ;   :list?            true
- ; }
-
+ ;; {:text "[[quick capture]] **{time}**: \n - {text} from {url}"
+ ;;  :media "[[quick capture]] **{time}**: \n - {url}"}
  }

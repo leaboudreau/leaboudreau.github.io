@@ -29,6 +29,8 @@ public:: false
 	  background-color:: #264c9b
 	- Les enjeux liés aux algues bleu-vert sont indéniablement synonymes d'enjeux environnementaux. Or, bon nombre de résident.e.s riverain.e.s font mention de termes comme 'valeur', 'investissement' et 'générations futures' non pas seulement en terme de souci écologique, mais également (voire, surtout) en terme d'investissement financier.
 	- Ce projet aborde l'écosystème comme propriété. Il questionne la vision capitaliste de la nature qui nous permet (en tant qu'être humain) de nous dissocier de celle-ci et de la posséder individuellement.
+	- L'oeuvre aborde la problématique entourant la vision de la nature comme ressource à exploiter.
+	  background-color:: #497d46
 	- L'oeuvre vise à présenter l'écosystème sur une échelle miniature en mettant l'emphase sur l'état de captivité et notre rôle (potentiellement positif et/ou négatif) sur celui-ci.
 	- ![SolutionsFondeesSurLaNature.png](../assets/SolutionsFondeesSurLaNature_1661993623998_0.png)
 	- Les bénéfices pour la biodiversité doivent avoir un poids égal à celui du bien-être humain

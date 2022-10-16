@@ -21,22 +21,34 @@
   :block/updated-at 1655952411254}
  {:block/name "album edigitales - choix animaux",
   :block/created-at 1655769148529,
-  :block/updated-at 1660702593707}
+  :block/updated-at 1664125527632}
  {:block/name "album edigitales - inspiration",
   :block/created-at 1655952317234,
   :block/updated-at 1656707878546}
+ {:block/name "album edigitales - littérature",
+  :block/created-at 1664125554424,
+  :block/updated-at 1664125554424}
  {:block/name "album edigitales to-do-list",
   :block/created-at 1655753759359,
-  :block/updated-at 1663608984920}
+  :block/updated-at 1664125532353}
  {:block/name "album empreintes digitales 2022",
   :block/created-at 1655579730969,
-  :block/updated-at 1658350927147}
+  :block/updated-at 1664125558958}
+ {:block/name "aliveness",
+  :block/created-at 1665020347744,
+  :block/updated-at 1665020347744}
+ {:block/name "animalmachine",
+  :block/created-at 1664926242147,
+  :block/updated-at 1664926242147}
  {:block/name "animals",
   :block/created-at 1656811506084,
   :block/updated-at 1656811506084}
  {:block/name "anthropocentrism",
   :block/created-at 1655841305140,
   :block/updated-at 1655841305140}
+ {:block/name "anthropocentrism and its discontents",
+  :block/created-at 1664925593911,
+  :block/updated-at 1665020357302}
  {:block/name "b",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
@@ -70,12 +82,21 @@
  {:block/name "care",
   :block/created-at 1660765687871,
   :block/updated-at 1660765687871}
+ {:block/name "christianity",
+  :block/created-at 1665020037692,
+  :block/updated-at 1665020037692}
  {:block/name "climatechange",
   :block/created-at 1655951210210,
   :block/updated-at 1655951210210}
  {:block/name "co2",
   :block/created-at 1655770090253,
   :block/updated-at 1655770090253}
+ {:block/name "coexistence",
+  :block/created-at 1664309114581,
+  :block/updated-at 1664309114581}
+ {:block/name "collective knowledge",
+  :block/created-at 1665026363212,
+  :block/updated-at 1665027044702}
  {:block/name "colonialism",
   :block/created-at 1660765231975,
   :block/updated-at 1660765231975}
@@ -88,27 +109,33 @@
  {:block/name "control",
   :block/created-at 1660763912712,
   :block/updated-at 1660763912712}
+ {:block/name "cooperation",
+  :block/created-at 1664308889751,
+  :block/updated-at 1664308889751}
  {:block/name "decolonialism",
   :block/created-at 1660843136241,
   :block/updated-at 1660843136241}
  {:block/name "dm1l",
   :block/created-at 1655658679927,
-  :block/updated-at 1658611918426}
- {:block/name "dm1l - idées + inspirations",
-  :block/created-at 1655866137417,
-  :block/updated-at 1661993887525}
+  :block/updated-at 1664125563843}
  {:block/name "dm1l - littérature",
   :block/created-at 1655952635427,
-  :block/updated-at 1655952646227}
+  :block/updated-at 1664125580344}
+ {:block/name "dm1l - r&d",
+  :block/created-at 1655866137417,
+  :block/updated-at 1664213282156}
  {:block/name "dm1l to-to-list",
   :block/created-at 1655866093018,
-  :block/updated-at 1661961413895}
+  :block/updated-at 1664125571539}
  {:block/name "doing",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
  {:block/name "done",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
+ {:block/name "dualism",
+  :block/created-at 1664927547849,
+  :block/updated-at 1664927547849}
  {:block/name "economicgrowth",
   :block/created-at 1660854817399,
   :block/updated-at 1660854817399}
@@ -136,10 +163,16 @@
   :block/updated-at 1655951232451}
  {:block/name "good to know",
   :block/created-at 1663539902752,
-  :block/updated-at 1663539902752}
+  :block/updated-at 1664125472193}
+ {:block/name "happiness",
+  :block/created-at 1664322693628,
+  :block/updated-at 1664322693628}
  {:block/name "hierarchies",
   :block/created-at 1655951021343,
   :block/updated-at 1655951021343}
+ {:block/name "humansupremacy",
+  :block/created-at 1664926963308,
+  :block/updated-at 1664926963308}
  {:block/name "imagined animals",
   :block/created-at 1655580472735,
   :block/updated-at 1655952434697}
@@ -155,18 +188,24 @@
  {:block/name "interspeciesrelationship",
   :block/created-at 1655952129985,
   :block/updated-at 1655952129985}
+ {:block/name "language",
+  :block/created-at 1665019095908,
+  :block/updated-at 1665019095908}
  {:block/name "later",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
  {:block/name "littérature",
   :block/created-at 1656706743506,
-  :block/updated-at 1660766540405}
+  :block/updated-at 1664925593913}
  {:block/name "mailto:n.gingras@cima.ca",
   :block/created-at 1658174222399,
   :block/updated-at 1658174222399}
  {:block/name "massextinction",
   :block/created-at 1655660342541,
   :block/updated-at 1655660342541}
+ {:block/name "mechanisms",
+  :block/created-at 1664927068456,
+  :block/updated-at 1664927068456}
  {:block/name "memory",
   :block/created-at 1655951342122,
   :block/updated-at 1655951342122}
@@ -176,9 +215,15 @@
  {:block/name "noise",
   :block/created-at 1660765380951,
   :block/updated-at 1660765380951}
+ {:block/name "nonhuman",
+  :block/created-at 1664927078014,
+  :block/updated-at 1664927078014}
  {:block/name "now",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1665027781956,
+  :block/updated-at 1665027781956}
  {:block/name "patriarchy",
   :block/created-at 1660842938170,
   :block/updated-at 1660842938170}
@@ -190,7 +235,7 @@
   :block/updated-at 1660766751740}
  {:block/name "pollution is colonialism",
   :block/created-at 1660766540402,
-  :block/updated-at 1660854978417}
+  :block/updated-at 1664125515180}
  {:block/name "power",
   :block/created-at 1655951016880,
   :block/updated-at 1655951016880}
@@ -199,22 +244,22 @@
   :block/updated-at 1655951005907}
  {:block/name "projet a-2022",
   :block/created-at 1661379529836,
-  :block/updated-at 1661379672575}
- {:block/name "projet a-2022 - idées + inspiration",
+  :block/updated-at 1664125480161}
+ {:block/name "projet a-2022 - r&d",
   :block/created-at 1661379566827,
-  :block/updated-at 1663703512018}
+  :block/updated-at 1664991501243}
  {:block/name "projet a-2022 - to-do-list",
   :block/created-at 1661379660324,
-  :block/updated-at 1661379665381}
+  :block/updated-at 1664125487485}
  {:block/name "projets en cours + à venir",
   :block/created-at 1655736964801,
-  :block/updated-at 1661379660327}
+  :block/updated-at 1664125520074}
  {:block/name "property",
   :block/created-at 1660854541486,
   :block/updated-at 1660854541486}
  {:block/name "questions + infos rencontre 21 juin",
   :block/created-at 1655825811462,
-  :block/updated-at 1658174282809}
+  :block/updated-at 1664125584136}
  {:block/name "science",
   :block/created-at 1660766798302,
   :block/updated-at 1660766798302}
@@ -226,7 +271,7 @@
   :block/updated-at 1655839437386}
  {:block/name "sound waterwheel",
   :block/created-at 1655658667315,
-  :block/updated-at 1655950253228}
+  :block/updated-at 1664125615777}
  {:block/name "speciesism",
   :block/created-at 1660765026029,
   :block/updated-at 1660765026029}
@@ -236,18 +281,24 @@
  {:block/name "supremacy",
   :block/created-at 1660764259023,
   :block/updated-at 1660764259023}
+ {:block/name "swarmintelligence",
+  :block/created-at 1664322794279,
+  :block/updated-at 1664322794279}
  {:block/name "technology",
   :block/created-at 1660854382784,
   :block/updated-at 1660854382784}
  {:block/name "the ethics of captivity",
   :block/created-at 1656811418701,
-  :block/updated-at 1656813179320}
+  :block/updated-at 1664125509221}
  {:block/name "thinking with water",
   :block/created-at 1656706773611,
-  :block/updated-at 1660766464236}
+  :block/updated-at 1664125498906}
  {:block/name "todo",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
+ {:block/name "underbug",
+  :block/created-at 1664307690044,
+  :block/updated-at 1664323856878}
  {:block/name "wait",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
@@ -262,10 +313,10 @@
   :block/updated-at 1655736868531}
  {:block/name "waterwheel - idées + inspirations",
   :block/created-at 1655736868526,
-  :block/updated-at 1661024808335}
+  :block/updated-at 1664125612624}
  {:block/name "waterwheel to-do-list",
   :block/created-at 1655736653798,
-  :block/updated-at 1660702570374}
+  :block/updated-at 1664125621466}
  {:block/name "whiteness",
   :block/created-at 1660854949150,
   :block/updated-at 1660854949150}

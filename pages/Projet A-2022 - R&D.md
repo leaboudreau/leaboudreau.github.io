@@ -9,6 +9,7 @@ public:: true
 		- ((6331b512-4142-4f2c-bc79-64c722c4010e))
 		- ((6328f5bb-6848-4c88-928e-d8f6105cbbe3))
 		- ((63375819-7323-44ef-a2fe-899566643fd7))
+		- ((633c9637-3898-4235-854d-f0193a57ae2a))
 	- ((6328dde4-426a-47b1-bdfa-07225f4e1298))
 	- ((6328f60e-a2d7-47d6-96c1-da7ab963e387))
 -
@@ -103,6 +104,13 @@ public:: true
 		  ![MovDetectCircuit.png](../assets/MovDetectCircuit_1664571331786_0.png)
 		  ![SoundDetectCircuit_DONE.jpg](../assets/SoundDetectCircuit_DONE_1664574804746_0.jpg)
 		-
+	- __2022/10/15__
+	  id:: 633c9637-3898-4235-854d-f0193a57ae2a
+		- First building of the circuit with a 'robot' form [Sound sensing circuit from sept 30]
+			- ATTENTION = when vibration motor on the structure, it make noise/vibration that triggers the mic endlessly = it never stops moving
+			- Either find a way to have the motor noise/vibration out of the range of the mic OR __choose another output behaviour (p. ex. light)__
+			- TESTED* the circuit is ok because it behaves normally with a LED
+	-
 - TO TRY LATER
   background-color:: #978626
   id:: 6328dde4-426a-47b1-bdfa-07225f4e1298

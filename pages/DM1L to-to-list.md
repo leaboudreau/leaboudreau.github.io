@@ -1,6 +1,9 @@
 public:: false
 
 - [[DM1L]]
+	- -> Protecteur pour 'fermer' le dessus de l'aquarium (grille transparent) impression 3D?
+	- Base pour immobiliser le socle (?)
+	-
 	- TODO Établir concept projet
 	- TODO Établir forme (liée au projet d'uni)
 	- TODO Photos-documents de travail (suivi création)

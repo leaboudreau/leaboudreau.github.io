@@ -109,7 +109,9 @@ public:: true
 		- First building of the circuit with a 'robot' form [Sound sensing circuit from sept 30]
 			- ATTENTION = when vibration motor on the structure, it make noise/vibration that triggers the mic endlessly = it never stops moving
 			- Either find a way to have the motor noise/vibration out of the range of the mic OR __choose another output behaviour (p. ex. light)__
-			- TESTED* the circuit is ok because it behaves normally with a LED-
+			- TESTED* the circuit is ok because it behaves normally with a LED
+			- [SoundDetect_RobotMotor_BadLoop.mp4](../assets/SoundDetect_RobotMotor_BadLoop_1665934944651_0.mp4)
+			- [SoundDetect_InfluenceHysteretic.mp4](../assets/SoundDetect_InfluenceHysteretic_1665934762359_0.mp4)
 	-
 - TO TRY LATER
   background-color:: #978626

@@ -49,8 +49,8 @@ public:: true
 		- Hysteretic oscillator + fade (555)
 		  
 		  _ Alternating flashing lights (fade)
-		  
-		  ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
+		  _
+		- ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
 		-
 		- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
 		  

@@ -53,18 +53,18 @@ public:: true
 	  collapsed:: true
 		- Hysteretic oscillator + fade (555)
 		  
-		  _ Alternating flashing lights (fade)
+		  -> Alternating flashing lights (fade)
 		- ![Hysteretic-Fade555.jpg](../assets/Hysteretic-Fade555_1661704689677_0.jpg)
 		-
 		- Dark detector (avec 2N3904) https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
 		  
-		  _ Light turns on when it's dark
+		  -> Light turns on when it's dark
 		  ![DarkDetector-2N3904.jpg](../assets/DarkDetector-2N3904_1661704721842_0.jpg)
 		-
 		- Simple blinking LED circuit https://www.instructables.com/Simple-Blinking-LED-Circuit/
 		  
-		  _ Alternating flashing lights
-		  _ Some resistors can be replace by LDR to have variations
+		  -> Alternating flashing lights
+		  -> Some resistors can be replace by LDR to have variations
 		  
 		  ![simpleblink-led-circuit.jpg](../assets/simpleblink-led-circuit_1665943204476_0.jpg) 
 		  ![BlinkingLED_WithLDR.jpg](../assets/BlinkingLED_WithLDR_1663622597230_0.jpg)
@@ -72,11 +72,11 @@ public:: true
 		-
 		- "Bird sound" Generator
 		  
-		  _ High pitched repetitive "bird-like" sounds
-		  _ Pour modifier la vitesse = changer R1 et/ou C2
-		  _ Pour baisser le volume = changer C4 (1uF ou 0.1uF)
-		  _ Pour modifier le durée de chaque impulsion = changer R2
-		  _ Bon mix de LDR = 8-16kohm + 10-50kohm
+		  -> High pitched repetitive "bird-like" sounds
+		  -> Pour modifier la vitesse = changer R1 et/ou C2
+		  -> Pour baisser le volume = changer C4 (1uF ou 0.1uF)
+		  -> Pour modifier le durée de chaque impulsion = changer R2
+		  -> Bon mix de LDR = 8-16kohm + 10-50kohm
 		  
 		  ![bird-sound-gen.jpg](../assets/bird-sound-gen_1665943255875_0.jpg) 
 		  ![BirdSoundGenerator01.jpg](../assets/BirdSoundGenerator01_1663622562740_0.jpg)
@@ -87,8 +87,8 @@ public:: true
 	  collapsed:: true
 		- Uneven clicks - 555
 		  
-		  _ Tictic-tic
-		  _ Resistor and/or diode can be replaced by LDR
+		  -> Tictic-tic
+		  -> Resistor and/or diode can be replaced by LDR
 		  
 		  ![uneven-clicks-circuit.jpg](../assets/uneven-clicks-circuit_1665943299705_0.jpg)
 		-
@@ -113,16 +113,16 @@ public:: true
 		  ![MovDetectCircuit.png](../assets/MovDetectCircuit_1664571331786_0.png)
 		  ![SoundDetectCircuit_DONE.jpg](../assets/SoundDetectCircuit_DONE_1664574804746_0.jpg)
 		- {{video https://www.youtube.com/watch?v=gTDme2iqAK0&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=6&ab_channel=L%C3%A9aBoudreau}}
-		-
 	- __2022/10/15__
 	  id:: 633c9637-3898-4235-854d-f0193a57ae2a
 	  collapsed:: true
 		- First building of the circuit with a 'robot' form [Sound sensing circuit from sept 30]
-			- ATTENTION = when vibration motor on the structure, it make noise/vibration that triggers the mic endlessly = it never stops moving
-			- Either find a way to have the motor noise/vibration out of the range of the mic OR __choose another output behaviour (p. ex. light)__
-			- TESTED* the circuit is ok because it behaves normally with a LED
-			- {{video https://www.youtube.com/watch?v=srFOP4KKxLU&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=1&ab_channel=L%C3%A9aBoudreau}}
-			- {{video https://www.youtube.com/watch?v=Ay_uoPzJAbE&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=2&ab_channel=L%C3%A9aBoudreau}}
+		  -> ATTENTION = when vibration motor on the structure, it make noise/vibration that triggers the mic endlessly = it never stops moving
+		  -> Either find a way to have the motor noise/vibration out of the range of the mic OR __choose another output behaviour (p. ex. light)__
+		  -> TESTED* the circuit is ok because it behaves normally with a LED
+		  
+		  {{video https://www.youtube.com/watch?v=srFOP4KKxLU&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=1&ab_channel=L%C3%A9aBoudreau}}
+		  {{video https://www.youtube.com/watch?v=Ay_uoPzJAbE&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=2&ab_channel=L%C3%A9aBoudreau}}
 - TO TRY LATER
   background-color:: #978626
   id:: 6328dde4-426a-47b1-bdfa-07225f4e1298

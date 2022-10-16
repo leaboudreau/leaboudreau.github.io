@@ -1,4 +1,4 @@
 public:: false
 
-- [[Projet A-2022 - R&D]]
+- [[Projet_A-2022_R+D]]
 - [[Projet A-2022 - to-do-list]]

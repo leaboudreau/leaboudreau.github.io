@@ -60,7 +60,6 @@ public:: true
 		  
 		  _ Alternating flashing lights
 		  _ Some resistors can be replace by LDR to have variations
-		  _ 
 		  
 		  ![Capture d’écran, le 2022-08-28 à 13.04.30.png](../assets/Capture_d’écran,_le_2022-08-28_à_13.04.30_1661706615467_0.png)
 		  ![BlinkingLED_WithLDR.jpg](../assets/BlinkingLED_WithLDR_1663622597230_0.jpg)

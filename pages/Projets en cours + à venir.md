@@ -2,7 +2,7 @@ public:: false
 
 - [[Projet A-2022]]
   background-color:: #49767b
-	- [[Projet_A-2022_ResearchDevelopment]]
+	- [[Project_A-2022_ResearchDevelopment]]
 	- [[Projet A-2022 - to-do-list]]
 - [[Album empreintes DIGITALes 2022]]
   background-color:: #497d46

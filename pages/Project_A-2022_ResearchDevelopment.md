@@ -1,4 +1,4 @@
-title:: Projet_A-2022_ResearchDevelopment
+title:: Project_A-2022_ResearchDevelopment
 public:: true
 
 - [[Projet A-2022]]
@@ -13,7 +13,6 @@ public:: true
 		- ((633c9637-3898-4235-854d-f0193a57ae2a))
 	- ((6328dde4-426a-47b1-bdfa-07225f4e1298))
 	- ((6328f60e-a2d7-47d6-96c1-da7ab963e387))
--
 -
 - LITTERATURE + CONCEPTUAL APPROACH
   background-color:: #533e7d

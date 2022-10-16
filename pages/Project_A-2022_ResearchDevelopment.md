@@ -49,7 +49,6 @@ public:: true
   id:: 63279ac0-02db-4d56-a253-cd4163216a23
 	- __2022/08/28__
 	  id:: 6331b512-4142-4f2c-bc79-64c722c4010e
-	  collapsed:: true
 		- Hysteretic oscillator + fade (555)
 		  
 		  -> Alternating flashing lights (fade)
@@ -83,7 +82,6 @@ public:: true
 		- {{video https://www.youtube.com/watch?v=r1Twf_5HLsE&list=PLQMybz_OeLzKiRKXyQD9YUUsHyoGO-XxA&index=3&ab_channel=L%C3%A9aBoudreau}}
 	- __2022/09/19__
 	  id:: 6328f5bb-6848-4c88-928e-d8f6105cbbe3
-	  collapsed:: true
 		- Uneven clicks - 555
 		  
 		  -> Tictic-tic
@@ -102,7 +100,6 @@ public:: true
 		-
 	- __2022/09/30__
 	  id:: 63375819-7323-44ef-a2fe-899566643fd7
-	  collapsed:: true
 		- Sound sensing circuit (sent by Koby Ratliff)
 		  
 		  -> Motor is triggered when sound is detected

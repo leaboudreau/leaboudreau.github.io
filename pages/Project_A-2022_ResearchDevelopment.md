@@ -21,7 +21,7 @@ public:: true
 		- https://aeon.co/essays/can-animals-be-usefully-described-as-clockwork-machines
 	- Underbug: An Obsessive Tale of Termites and Technology
 		- Swarm behavior
-	- Immersive environment -> earth smell??
+	- Immersive environment -> earth smell???
 - GENERAL TECHNICAL INFOS
   background-color:: #793e3e
   id:: 6331b4d4-2e5d-41f7-8d6f-7fb99d8991d1

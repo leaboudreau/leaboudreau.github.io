@@ -6,6 +6,7 @@ public:: true
 	- [[Anthropocentrism and its Discontents]]
 - E
 	- [[The Ethics of Captivity]]
+- F
 - N
 	- [[The New Breed]]
 - P

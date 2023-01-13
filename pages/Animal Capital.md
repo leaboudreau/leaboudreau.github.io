@@ -1,3 +1,5 @@
+public:: true
+
 - Animal Capital: Rendering Life in Biopolitical Times
 - ![ani.jpg](../assets/ani_1667318771908_0.jpg){:height 478, :width 312}
 - Shukin, N. (2009). *Animal Capital: Rendering Life in Biopolitical Times*. Univ Of Minnesota Press.

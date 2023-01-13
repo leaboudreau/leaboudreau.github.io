@@ -1,3 +1,5 @@
+public:: true
+
 - Anthropocentrism and its Discontents
 - ![an.jpeg](../assets/an_1664925803416_0.jpeg){:height 487, :width 313}
 - Steiner, G. (2005). *Anthropocentrism and its Discontents*. University of Pittsburgh Press.

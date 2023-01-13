@@ -1,4 +1,4 @@
-public:: false
+public:: true
 
 - The Ethics of Captivity #captivity #powerdynamics #animals #ethics
 - ![eth.jpeg](../assets/eth_1656811564690_0.jpeg){:height 404, :width 273}

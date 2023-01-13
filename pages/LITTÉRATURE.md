@@ -7,7 +7,7 @@ public:: true
 - E
 	- [[The Ethics of Captivity]]
 - F
-- N
+- Ns
 	- [[The New Breed]]
 - P
 	- [[Pollution Is Colonialism]]

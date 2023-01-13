@@ -6,7 +6,7 @@ public:: true
 	- [[Anthropocentrism and its Discontents]]
 - E
 	- [[The Ethics of Captivity]]
--
+- N
 	- [[The New Breed]]
 - P
 	- [[Pollution Is Colonialism]]

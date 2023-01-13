@@ -1,7 +1,16 @@
 public:: false
 
-- [[Thinking with Water]]
-- [[The Ethics of Captivity]]
-- [[Pollution Is Colonialism]]
-- [[Underbug]]
-- [[Anthropocentrism and its Discontents]]
+- A
+	- [[Alone Together]]
+	- [[Animal Capital]]
+	- [[Anthropocentrism and its Discontents]]
+- E
+	- [[The Ethics of Captivity]]
+- N
+	- [[The New Breed]]
+- P
+	- [[Pollution Is Colonialism]]
+- T
+	- [[Thinking with Water]]
+- U
+	- [[Underbug]]

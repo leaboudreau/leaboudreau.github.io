@@ -1,7 +1,7 @@
 public:: false
 
 - The Ethics of Captivity #captivity #powerdynamics #animals #ethics
-- ![eth.jpeg](../assets/eth_1656811564690_0.jpeg){:height 367, :width 237}
+- ![eth.jpeg](../assets/eth_1656811564690_0.jpeg){:height 404, :width 273}
 - Horowitz, A. (2014). __Canis familiaris: Companion and Captive.__ In _The Ethics of Captivity_ (pp. 7–21). Oxford University Press.
 	- "The very process of artificial selection holds dogs captive, tethered to persons in body and mind. As a species, consideration of the morality of keeping dogs captive is no longer relevant: without this captivity, domestic dogs would not exist." (pp. 13)
 	- "Those breed members unlucky enough to be the genetic inheritors of these conditions are held captive by their own bodies. Humans have enabled this unfortunate circumstances." (talking about breed inheriting physical disorders, pp. 13)

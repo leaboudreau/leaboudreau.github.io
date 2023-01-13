@@ -1,0 +1,22 @@
+- Juan Ortiz-Apuy https://www.concordia.ca/faculty/juan-ortizapuy.html
+- Beverly Best https://www.concordia.ca/faculty/beverley-best.html
+-
+- Recyborg https://recyborg.com/nous-contacter/
+-
+- binary obsession
+-
+- Artist centers + venues + other
+  background-color:: blue
+- NORWAY
+	- Notam https://notam.no/about/
+	- BEK https://bek.no/en/
+	- TEKS https://teks.no/
+	- Meta.morf https://metamorf.no/
+	- Bergen Kunsthall https://www.kunsthall.no/en/#
+	- Entrée Bergen https://entreebergen.no/
+	- Aldea http://www.aldea.art/
+	- Random infos https://www.kulturradet.no/documents/10157/b0bddea4-8921-4bfb-8a05-3f9478231049
+- SWEDEN
+	- Inter Arts Center https://www.iac.lu.se/
+	- INKONST https://inkonst.com/en/
+-

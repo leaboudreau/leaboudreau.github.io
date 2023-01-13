@@ -430,6 +430,9 @@
  {:block/name "adaptation",
   :block/created-at 1655952411254,
   :block/updated-at 1655952411254}
+ {:block/name "affect",
+  :block/created-at 1666920417378,
+  :block/updated-at 1666920417378}
  {:block/name "album edigitales - choix animaux",
   :block/created-at 1655769148529,
   :block/updated-at 1664125527632}
@@ -441,13 +444,16 @@
   :block/updated-at 1664125554424}
  {:block/name "album edigitales to-do-list",
   :block/created-at 1655753759359,
-  :block/updated-at 1666124980749}
+  :block/updated-at 1668727522881}
  {:block/name "album empreintes digitales 2022",
   :block/created-at 1655579730969,
   :block/updated-at 1664125558958}
  {:block/name "aliveness",
   :block/created-at 1665020347744,
   :block/updated-at 1665020347744}
+ {:block/name "animal capital",
+  :block/created-at 1667318713506,
+  :block/updated-at 1667318820893}
  {:block/name "animalmachine",
   :block/created-at 1664926242147,
   :block/updated-at 1664926242147}
@@ -459,7 +465,10 @@
   :block/updated-at 1655841305140}
  {:block/name "anthropocentrism and its discontents",
   :block/created-at 1664925593911,
-  :block/updated-at 1665929781901}
+  :block/updated-at 1667398244407}
+ {:block/name "anthropomorphism",
+  :block/created-at 1666921230743,
+  :block/updated-at 1666921230743}
  {:block/name "awareness",
   :block/created-at 1665928411314,
   :block/updated-at 1665928411314}
@@ -540,10 +549,10 @@
   :block/updated-at 1664125580344}
  {:block/name "dm1l - r&d",
   :block/created-at 1655866137417,
-  :block/updated-at 1665612120639}
+  :block/updated-at 1666646966716}
  {:block/name "dm1l to-to-list",
   :block/created-at 1655866093018,
-  :block/updated-at 1665349440256}
+  :block/updated-at 1667529925163}
  {:block/name "doing",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
@@ -602,6 +611,9 @@
  {:block/name "in-progress",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
+ {:block/name "indigenizing the anthropocene",
+  :block/created-at 1668055137482,
+  :block/updated-at 1668055137482}
  {:block/name "insect",
   :block/created-at 1655770247481,
   :block/updated-at 1655770247481}
@@ -619,7 +631,7 @@
   :block/updated-at 1655577924121}
  {:block/name "littérature",
   :block/created-at 1656706743506,
-  :block/updated-at 1664925593913}
+  :block/updated-at 1668055059396}
  {:block/name "mailto:n.gingras@cima.ca",
   :block/created-at 1658174222399,
   :block/updated-at 1658174222399}
@@ -641,6 +653,9 @@
  {:block/name "nonhuman",
   :block/created-at 1664927078014,
   :block/updated-at 1664927078014}
+ {:block/name "notes random",
+  :block/created-at 1667341891662,
+  :block/updated-at 1667529530282}
  {:block/name "now",
   :block/created-at 1655577924121,
   :block/updated-at 1655577924121}
@@ -697,7 +712,7 @@
   :block/updated-at 1655951005907}
  {:block/name "project_a-2022_researchdevelopment",
   :block/created-at 1661379566827,
-  :block/updated-at 1666397487548}
+  :block/updated-at 1666538393796}
  {:block/name "projet a-2022",
   :block/created-at 1661379529836,
   :block/updated-at 1664125480161}
@@ -722,6 +737,12 @@
  {:block/name "readme.md#customizing-the-css",
   :block/created-at 1665935699521,
   :block/updated-at 1665935699521}
+ {:block/name "rights",
+  :block/created-at 1666920628248,
+  :block/updated-at 1666920628248}
+ {:block/name "robots",
+  :block/created-at 1666921355111,
+  :block/updated-at 1666921355111}
  {:block/name "science",
   :block/created-at 1660766798302,
   :block/updated-at 1660766798302}
@@ -758,6 +779,9 @@
  {:block/name "the mit license",
   :block/created-at 1665935698608,
   :block/updated-at 1665935698608}
+ {:block/name "the new breed",
+  :block/created-at 1666623930647,
+  :block/updated-at 1666922697337}
  {:block/name "thinking with water",
   :block/created-at 1656706773611,
   :block/updated-at 1664125498906}

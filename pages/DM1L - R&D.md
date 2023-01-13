@@ -5,6 +5,17 @@ public:: false
 - CONCEPT = __PROPRIÉTÉ__, capitalisme, anthropocentrisme, relations de pouvoir, écosystèmes
   background-color:: #497d46
 	- Oeuvre nommée : Propriété
+	- 20221212 - points principaux
+	  background-color:: yellow
+		- propriété = les gens s'en font pour l'environnement lorsque ça touche leur investissement financier
+		- stéréotypie = "A stereotypy is a term for a group of phenotypic behaviours that are repetitive, morphologically identical and which possess no obvious goal or function." https://en.wikipedia.org/wiki/Stereotypy_(non-human)
+		- considération du monde animal = captivité
+		- considération du monde animal = territoire habitable rétrécit
+		- La vision (souvent négative) que l'être humain a sur la faune et flore vivant sur le même territoire que lui. En particulier, les êtres vivants qui ne correspondent pas à nos standards esthétiques ou qui "compétitionnent" avec nous sur le territoire.
+		- Une volonté de changement de paradigme, pour une coexistence plutôt qu'une guerre contre ces êtres vivants.
+		-
+	-
+	-
 	-
 	- Petit aquarium cube sur un podium noir, micro écosystème à l'intérieur du cube
 		- Captivité
@@ -87,4 +98,6 @@ public:: false
 -
 - 2022/09/26
 	- Le BEAMbot dans l'eau distillée et couvert de vernis transparent fonctionne encore après deux jours dans l'eau
-	-
+- 2022/10/24
+	- Stéréotypie = "A stereotypy is a term for a group of phenotypic behaviours that are repetitive, morphologically identical and which possess no obvious goal or function." https://en.wikipedia.org/wiki/Stereotypy_(non-human)
+	  background-color:: purple

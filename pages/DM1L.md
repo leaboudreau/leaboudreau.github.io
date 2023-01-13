@@ -2,7 +2,7 @@ public:: false
 
 - [[DM1L - R&D]]
   background-color:: #533e7d
-- [[DM1L to-to-list]]
+- [[DM1L to-do-list]]
 - [[DM1L - Littérature]]
   background-color:: #793e3e
 - [[Questions + infos rencontre 21 juin]]

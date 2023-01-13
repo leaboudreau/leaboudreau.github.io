@@ -1,5 +1,5 @@
 title:: Project_A-2022_ResearchDevelopment
-public:: true
+public:: false
 
 - [[Projet A-2022]]
 -
@@ -21,25 +21,21 @@ public:: true
 		- https://aeon.co/essays/can-animals-be-usefully-described-as-clockwork-machines
 	- Underbug: An Obsessive Tale of Termites and Technology
 		- Swarm behavior
-	- Immersive environment -> earth smell???
+	- Immersive environment -> earth smell?
 - GENERAL TECHNICAL INFOS
   background-color:: #793e3e
   id:: 6331b4d4-2e5d-41f7-8d6f-7fb99d8991d1
-	- How to publish logseq docs to internet (trough github)
-	  collapsed:: true
+	- How to publish logseq docs to internet (through github)
 		- ![_publish-logseq-github.jpg](../assets/_publish-logseq-github_1665944930344_0.jpg){:height 556, :width 417}
 		-
 	- __IC 555__
-	  collapsed:: true
 		- ![2560px-555_Pinout.svg.png](../assets/2560px-555_Pinout.svg_1661386060127_0.png)
 	- __Circuits how-to videos__
-	  collapsed:: true
 		- LED fader with 555: https://www.youtube.com/watch?v=XajEBM7iC4A&ab_channel=learnelectronics
 		- Adjustable strobe with 555: https://www.youtube.com/watch?v=H1jpMqPHyjA&ab_channel=learnelectronics
 		- Light/Dark detector: https://www.youtube.com/watch?v=3G9f7u60D4w&ab_channel=learnelectronics
 		-
 	- Serie vs parallel
-	  collapsed:: true
 		- (connecter batteries en séir pour doubler voltage, en parallèle pour doubler l'ampérage) ~~
 		- ![Batteriesinserie.jpg](../assets/Batteriesinserie_1665935236596_0.jpg)
 		-
@@ -121,7 +117,6 @@ public:: true
 - TO TRY LATER
   background-color:: #978626
   id:: 6328dde4-426a-47b1-bdfa-07225f4e1298
-  collapsed:: true
 	- BC547 equivalent is 2n3904 - Q1
 	- BC557 equivalent is 2n3906 - Q2
 	- ![motion-detect-555.jpg](../assets/motion-detect-555_1665943402333_0.jpg)
@@ -139,7 +134,6 @@ public:: true
 - CIRCUITS THAT DIDN'T WORK
   background-color:: #264c9b
   id:: 6328f60e-a2d7-47d6-96c1-da7ab963e387
-  collapsed:: true
 	- Didn't work/unsatifying (2022/09/16)
 	- ![cricket-sound-circuit.jpg](../assets/cricket-sound-circuit_1665943499597_0.jpg)
 	- Didn't work/unsatifying (2022/09/19)

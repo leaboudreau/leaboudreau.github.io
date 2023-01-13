@@ -33,4 +33,24 @@
 - 9_ The Second Termite Safari
 	- "[...] but, like calling termites robots, it contains contradictions and paradoxes." (pp. 83)
 	- "[...] probably none of the geneticists could really imagine a living being without rights." (pp. 94)
+- 11_ Jazz in the Metagenome
+	- "[...] the termite's gut is another composite animal made of millions of bacteria [...]" (pp. 110)
+- 12_ Burning Very Slowly
+	- "The more I thought about this, the more I wondered if we focus too much on the inventions-the fertilizers, the biofuel, and even the wellhead itself-rather than the systems of power that grow around them." (pp. 126) #powerdynamics
+- 14_ Crossing the Abstraction Barrier
+	- "They even have a sort of electronic boredomL they'll repeat motions three times to try to get it right, but after that they give up." (pp. 137)
+	- "I have lazily thought of robots as 'smart'. But no one wants a robot that really thinks. We want reliable ones that can do complicated jobs thousands of times without mistakes." (pp. 139) #intelligence #robots
+	- "One way to further abstract the robots' reasoning is to make their environment and even the blocks themselves smart." (pp. 139)
+	- "Robots will only be part of our lives when we don't need PhDs to run them and they can make their own power." (pp. 141) #robots
+	- "The Kilobots are goofy as individuals but sophisticated as a group, making something just short of a robotic superorganism." (pp. 143) #swarmintelligence
+- 15_ Influential Individuals
+	- "What she discovered was that the bugs did not act like robots at all! [...] the termites were individuals, with personalities." (pp. 148) #individual #insect
+	  background-color:: yellow
+	- "Kirstin's termites were not the downtrodden drones of a totalitarian assembly line, but something more like the well-kept residents of a Danish socialist village-each contributing in its own way." (pp. 151)
+	- "Fish, in other words, have evolved collective strategies that reduce the likelihood of following a really eccentric fish with a bad idea, which is something humans might want to look into." (pp. 153)
+	- "But Kirstin's data revealed a world that was more intuitive-more gooey, more individual, and less robotic-than the more mechanistic views of termites that humans had been able to imagine." (pp. 153) #individual
+	  background-color:: green
+	- "'The mechanistic view of life doesn't have room for minded things.' And yet, it was machines that had revealed this 'minded' world." (pp. 155)
+	- "The termites had changed the way she thought about machines. 'I've reached the mindset that's much closer to the idea of constructing a society than three robots who can make stuff together.'" (pp. 158) #society #swarmintelligence
+	- "I'd like to make a lot of really dumb robots. Whoever gets the sensory information becomes the leader. Over time they will forget that they're dumb." (pp. 158)
 -

@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["project_a-2022_researchdevelopment" "projet_a-2022_researchdevelopment" "projet_a-2022_r+d" "LITTÉRATURE" "Album empreintes DIGITALes 2022" "DM1L" "Projet A-2022 - R&D"]
+ :favorites ["Winter2023_Studio" "to-do" "NOTES RANDOM" "projet_a-2022_researchdevelopment" "projet_a-2022_r+d" "LITTÉRATURE" "DM1L" "Projet A-2022 - R&D"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -228,7 +228,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :feature/enable-journals? false
- :default-home {:page "Projets en cours + à venir"}
+ :default-home {:page "LITTÉRATURE"}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

@@ -11,7 +11,7 @@ public:: false
 	- [[Album eDIGITALes - Inspiration]]
 - [[DM1L]]
   background-color:: #533e7d
-	- [[DM1L to-to-list]]
+	- [[DM1L to-do-list]]
 	- [[DM1L - R&D]]
 	- [[DM1L - Littérature]]
 - [[LITTÉRATURE]]

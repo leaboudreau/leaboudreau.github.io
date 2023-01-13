@@ -14,5 +14,5 @@ public:: false
 	- [[DM1L to-do-list]]
 	- [[DM1L - R&D]]
 	- [[DM1L - Littérature]]
-- [[LITTÉRATURE]]
+- [[LITERATURE]]
   background-color:: #793e3e

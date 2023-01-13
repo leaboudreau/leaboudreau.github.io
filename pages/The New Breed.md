@@ -1,3 +1,5 @@
+public:: true
+
 - The New Breed: What our History with Animals Reveals About our Future with Robots
 - ![71ySyGXGOfL.jpeg](../assets/71ySyGXGOfL_1666624011191_0.jpeg){:height 486, :width 309}
 - Darling, K. (2021). *The New Breed: What Our History with Animals Reveals about Our Future with Robots*. Henry Holt and Co.

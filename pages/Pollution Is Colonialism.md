@@ -1,4 +1,4 @@
-public:: false
+public:: true
 
 - Pollution Is Colonialism #pollution #colonialism #power #capitalism #water #science
 - ![978-1-4780-1413-3.jpeg](../assets/978-1-4780-1413-3_1660766602254_0.jpeg){:height 445, :width 291}

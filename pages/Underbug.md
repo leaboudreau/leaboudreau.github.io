@@ -1,3 +1,5 @@
+public:: true
+
 - Underbug : An Obsessive Tale of Termites and Technology
 - ![41iHaHLfn+L._SX331_BO1,204,203,200_.jpg](../assets/41iHaHLfn+L._SX331_BO1,204,203,200_1664307883263_0.jpg){:height 446, :width 292}
 - Margonelli, L. (2018, August 21). *Underbug: An Obsessive Tale of Termites and Technology* (1st Edition). Scientific American / Farrar, Straus and Giroux.

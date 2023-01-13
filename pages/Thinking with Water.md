@@ -1,4 +1,4 @@
-public:: false
+public:: true
 
 - [[Sound Waterwheel]]
 - Thinking with Water #capitalism #water #memory

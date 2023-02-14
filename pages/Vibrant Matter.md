@@ -18,3 +18,4 @@ public:: true
 	- "In case of accidental death or injury to a human, the nonhuman actant, for example, the carving knife that fell into human flesh or the carriage that trampled the leg of a pedestrian - became deodand [...] the deodand, a materiality 'suspended between human and thing,' was surrendered to the crown to be used (or sold) to compensate for the harm done." (pp. 8) #agency
 	- "Such a newfound attentiveness to matter and its powers will not solve the problem of human exploitation or oppression, but it can inspire a greater sense of the extent to which all bodies are kin in the sense of inextricably enmeshed in a dense network of relations." (pp. 13) #powerdynamics #relations
 - 02_ The Agency of Assemblages
+	- ""

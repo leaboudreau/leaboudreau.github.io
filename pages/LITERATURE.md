@@ -1,11 +1,8 @@
 public:: true
 
 - A
-	- [[Alone Together]]
 	- [[Animal Capital]]
 	- [[Anthropocentrism and its Discontents]]
-- B
-	- [[Braiding Sweetgrass]]
 - E
 	- [[The Ethics of Captivity]]
 - N

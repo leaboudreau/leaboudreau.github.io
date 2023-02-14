@@ -6,3 +6,5 @@
 		- Ethics of documentary
 	- Harun Farocki
 		- Cinéma vérité
+	- Werner Herzog
+		- https://www.wernerherzog.com/

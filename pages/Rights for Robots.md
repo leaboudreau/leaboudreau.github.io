@@ -1,0 +1,5 @@
+- Rights for Robots: Artificial Intelligence, Animal, and Environmental Law
+- ![exqQA0ECRPaxkaVfwDeo_9780367211745.png](../assets/exqQA0ECRPaxkaVfwDeo_9780367211745_1677703897439_0.png){:height 388, :width 377}
+- Gellers, J. (2020). *Rights for Robots: Artificial Intelligence, Animal and Environmental Law*. Routledge.
+- Introduction
+	-

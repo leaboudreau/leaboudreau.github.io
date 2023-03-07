@@ -5,10 +5,14 @@ public:: true
 	- [[Anthropocentrism and its Discontents]]
 - E
 	- [[The Ethics of Captivity]]
+- H
+	- [[How to Make Art at the End of the World]]
 - N
 	- [[The New Breed]]
 - P
 	- [[Pollution Is Colonialism]]
+- R
+	- [[Rights for Robots]]
 - T
 	- [[Thinking with Water]]
 - U

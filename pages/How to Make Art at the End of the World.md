@@ -1,3 +1,5 @@
+public:: true
+
 - How to Make Art at the End of the World: A Manifesto for Research-Creation
 - ![978-1-4780-0402-8.jpeg](../assets/978-1-4780-0402-8_1677702899420_0.jpeg){:height 462, :width 296}
 - Loveless, N. (2019). *How to Make Art at the End of the World: A Manifesto for Research-Creation*. Duke University Press.

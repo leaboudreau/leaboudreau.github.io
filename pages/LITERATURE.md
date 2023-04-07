@@ -3,14 +3,19 @@ public:: true
 - A
 	- [[Animal Capital]]
 	- [[Anthropocentrism and its Discontents]]
+- C
+	- [[Cuteness]]
 - E
 	- [[The Ethics of Captivity]]
 - H
+	- [[Happy Objects]]
 	- [[How to Make Art at the End of the World]]
 - N
 	- [[The New Breed]]
+	- [[NON-HUMAN OTHERNESS: ANIMALS AS OTHERS AND DEVICES FOR OTHERING]]
 - P
 	- [[Pollution Is Colonialism]]
+	- [[The Power of Cute]]
 - R
 	- [[Rights for Robots]]
 - T

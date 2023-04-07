@@ -1,6 +1,6 @@
 public:: true
 
-- {{renderer :toc_nqafspez}}
+-
 	- # Aliveness
 	- # Anthropomorphism
 	- # Capitalism
